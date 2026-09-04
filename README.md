@@ -1,35 +1,23 @@
 <h1 align="center">Hi, I'm Abhay Baghel 👋</h1>
 
 <p align="center">
-  <strong>Backend Developer • C# • .NET • REST APIs</strong>
+  Building practical backend applications with C# and .NET.
 </p>
 
 <p align="center">
-  Building practical, reliable backend applications and learning something new with every project.
+  <img src="https://komarev.com/ghpvc/?username=Abhaybaghel02&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=Abhaybaghel02&label=Profile%20Views&color=512BD4&style=flat"
-    alt="Profile views"
-  />
-</p>
+## About me
 
----
+- 🔭 Currently building REST APIs with ASP.NET Core
+- 🌱 Learning backend development, API design, and GitHub workflows
+- 🧩 Interested in clean, reliable software and practical projects
+- 📌 Featured project: [User Management API](https://github.com/Abhaybaghel02/Coursera-Api-project)
 
-## 👨‍💻 About Me
+## Tech across my repositories
 
-- 🔭 Currently building REST APIs with **ASP.NET Core**
-- 🌱 Learning **backend development, API design, databases, and GitHub Actions**
-- 🧩 Interested in **clean architecture, reliable software, and practical projects**
-- 💡 Exploring both **.NET and modern JavaScript/TypeScript stacks**
-- 📌 Featured project: **User Management API**
-
----
-
-## 🛠️ Tech Stack
-
-### Backend & APIs
+**Backend & APIs**
 
 <p>
   <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
@@ -41,7 +29,7 @@
   <img src="https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=postgresql&logoColor=black" alt="Neon Postgres" />
 </p>
 
-### Frontend
+**Frontend**
 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -54,126 +42,52 @@
   <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI" />
 </p>
 
-### Cloud, AI & Tools
+**Cloud, AI & tooling**
 
 <p>
   <img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Google%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google AI" />
+  <img src="https://img.shields.io/badge/Google%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google AI and Genkit" />
   <img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white" alt="Clerk" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
----
+## Featured projects
 
-## 🚀 Featured Projects
+<a href="https://github.com/Abhaybaghel02/Coursera-Api-project">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhaybaghel02&repo=Coursera-Api-project&theme=tokyonight" alt="User Management API repository card" />
+</a>
 
-<p align="center">
+<a href="https://github.com/Abhaybaghel02/MOCK-Interview">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhaybaghel02&repo=MOCK-Interview&theme=tokyonight" alt="Mock Interview repository card" />
+</a>
 
-  <a href="https://github.com/Abhaybaghel02/Coursera-Api-project">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin?username=Abhaybaghel02&repo=Coursera-Api-project&theme=tokyonight&hide_border=true"
-      width="400"
-      alt="User Management API"
-    />
-  </a>
+<a href="https://github.com/Abhaybaghel02/GROUND-WATER-LEVEL-PREDICTOR">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhaybaghel02&repo=GROUND-WATER-LEVEL-PREDICTOR&theme=tokyonight" alt="Ground Water Level Predictor repository card" />
+</a>
 
-  <a href="https://github.com/Abhaybaghel02/MOCK-Interview">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin?username=Abhaybaghel02&repo=MOCK-Interview&theme=tokyonight&hide_border=true"
-      width="400"
-      alt="Mock Interview"
-    />
-  </a>
-
-</p>
-
-<p align="center">
-
-  <a href="https://github.com/Abhaybaghel02/GROUND-WATER-LEVEL-PREDICTOR">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin?username=Abhaybaghel02&repo=GROUND-WATER-LEVEL-PREDICTOR&theme=tokyonight&hide_border=true"
-      width="400"
-      alt="Ground Water Level Predictor"
-    />
-  </a>
-
-  <a href="https://github.com/Abhaybaghel02/my-digital-canva">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin?username=Abhaybaghel02&repo=my-digital-canva&theme=tokyonight&hide_border=true"
-      width="400"
-      alt="Digital Canva"
-    />
-  </a>
-
-</p>
-
----
+<a href="https://github.com/Abhaybaghel02/my-digital-canva">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhaybaghel02&repo=my-digital-canva&theme=tokyonight" alt="Digital Canva repository card" />
+</a>
 
 ## 🐍 Contribution Snake
 
 <p align="center">
-
-  <picture>
-
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Abhaybaghel02/Abhaybaghel02/output/github-contribution-grid-snake-dark.svg"
-    />
-
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Abhaybaghel02/Abhaybaghel02/output/github-contribution-grid-snake.svg"
-    />
-
-    <img
-      src="https://raw.githubusercontent.com/Abhaybaghel02/Abhaybaghel02/output/github-contribution-grid-snake.svg"
-      alt="GitHub contribution snake"
-    />
-
-  </picture>
-
+  <img
+    src="https://raw.githubusercontent.com/Abhaybaghel02/Abhaybaghel02/output/github-contribution-grid-snake.gif"
+    alt="Animated green GitHub contribution snake"
+  />
 </p>
+
+## GitHub activity
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhaybaghel02&show_icons=true&theme=tokyonight&hide_border=true" alt="Abhay's GitHub statistics" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhaybaghel02&theme=tokyonight&hide_border=true" alt="Abhay's contribution streak" />
+</p>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhaybaghel02&theme=tokyo-night&hide_border=true" alt="Abhay's contribution graph" />
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Abhaybaghel02&show_icons=true&theme=tokyonight&hide_border=true"
-    height="180"
-    alt="Abhay's GitHub statistics"
-  />
-
-  <img
-    src="https://streak-stats.demolab.com?user=Abhaybaghel02&theme=tokyonight&hide_border=true"
-    height="180"
-    alt="Abhay's GitHub contribution streak"
-  />
-
-</p>
-
----
-
-## 📈 Activity Graph
-
-<p align="center">
-
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Abhaybaghel02&theme=tokyo-night&hide_border=true"
-    alt="Abhay's GitHub activity graph"
-  />
-
-</p>
-
----
-
-<p align="center">
-  <strong>💻 Building • Learning • Improving 🚀</strong>
-</p>
-
-<p align="center">
-  Thanks for visiting my profile!
-</p>
+<p align="center">Thanks for visiting — explore my projects and follow along as I build.</p>
