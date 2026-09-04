@@ -67,6 +67,14 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhaybaghel02&repo=my-digital-canva&theme=tokyonight" alt="Digital Canva repository card" />
 </a>
 
+## Contribution snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhaybaghel02/Abhaybaghel02/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abhaybaghel02/Abhaybaghel02/output/github-contribution-grid-snake.svg" />
+  <img alt="Animated snake eating Abhay's GitHub contribution graph" src="https://raw.githubusercontent.com/Abhaybaghel02/Abhaybaghel02/output/github-contribution-grid-snake.svg" />
+</picture>
+
 ## GitHub activity
 
 <p>
